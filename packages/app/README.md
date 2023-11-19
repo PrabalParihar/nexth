@@ -76,7 +76,7 @@ Consult the GateFi SDK documentation for further functionalities and configurati
 
 
 
-NFT.Storage Integration
+## NFT.Storage Integration
 NFT.Storage for decentralized data management. Users can input text (prompts) into an interactive box, which are then stored on NFT.Storage. This component not only facilitates the storage of prompt inputs but also showcases their retrieval, presenting them in a convenient sidebar format mimicking OpenAI's interface.
 
 Key Features
@@ -104,7 +104,7 @@ Additional Notes
 This component serves as a prototype for integrating OpenAI prompt interactions with decentralized storage solutions provided by NFT.Storage.
 For comprehensive information and advanced functionalities, refer to the NFT.Storage and OpenAI documentation.
 
-Worldcoin ID Verification Button
+## Worldcoin ID Verification Button
 Overview
 The WorldcoinButton component integrates the Worldcoin IDKit Widget into a React application, facilitating user verification via Worldcoin's identity service. The component offers a seamless user experience for identity verification, leveraging Worldcoin's secure and privacy-preserving technology.
 
