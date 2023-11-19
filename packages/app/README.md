@@ -24,7 +24,7 @@ A Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
 If you want to add smart contracts to your project, check out the docs at [hardhat folder](./hardhat) or [foundry folder](./foundry).
 
 
-Unlimit Crypto Integration with GateFi SDK
+## Unlimit Crypto Integration with GateFi SDK
 Introduction
 Unlimit is revolutionizing the payment landscape by offering a borderless payment solution that caters to both local and international markets. Our goal is to eradicate borders and intermediaries in business transactions, making it seamless for businesses to expand into regions like LATAM, APAC, Africa, Europe, and the UK. We boast the world's largest in-house developed payment infrastructure, offering a wide range of services including card acquiring, a multitude of payment methods, multi-currency IBAN accounts, card issuing, and a highly configurable API platform. Our Unlimit Crypto service is at the forefront of pioneering fiat on & offramp solutions for Defi, Gamefi, and NFTs.
 
